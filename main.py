@@ -39,3 +39,6 @@ review1.new_review(book2, 'Relax detective book to read alone or with family!')
 
 
 print(f'Review for book1: {book1.list_reviews}')
+
+#Завдання 3
+#Ознайомився
